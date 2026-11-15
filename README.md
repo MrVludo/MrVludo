@@ -1,4 +1,4 @@
-![👋 Hi, I'm Vludo](https://img.sanishtech.com/u/c42aa1cdd65f755a3fd4d9cc04666bd3.png)
+![👋 Hi, I'm Vludo]()
 
 ![Profile views](https://komarev.com/ghpvc/?username=MrVludo&label=Profile%20views&color=0e75b6&style=flat)
 
